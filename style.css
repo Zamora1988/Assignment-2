@@ -41,7 +41,6 @@ a{
 }
 .header-logo{
     flex-grow: 1;
-    /*flex-basis: 120px;*/
     justify-content: flex-start;
 }
 .header-logo a{
@@ -55,7 +54,6 @@ a{
     flex-wrap: wrap;
     flex-grow: 1;
     justify-content: flex-end;
-    /*gap: 12px;*/
     
 }
 .nav-link li{
@@ -109,7 +107,6 @@ a{
 }
 .hero-img{
     justify-content: flex-end;
-    
     width: 700px;
     height: auto;
     
@@ -192,8 +189,8 @@ figcaption {
 /*Call to action Section*/
 
 .action-call-wrapper{
-    background-color: var(--white);
-    color: var(--dark-blue);
+    background-color: #f9faf8;
+    color: #3882f6;
     align-items: center;
     padding: 90px 15%;
 }
